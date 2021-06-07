@@ -1,3 +1,4 @@
+Copyrights To Rahul Satav 2019
 # MultiplicationGame
 Interactive application built with JavaScript
 
